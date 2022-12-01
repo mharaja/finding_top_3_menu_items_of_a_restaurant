@@ -1,0 +1,26 @@
+[
+    {
+      "eater_id": "eid_001", "food_menu_id": "fid_101"
+    },
+    {
+      "eater_id": "eid_002", "food_menu_id": "fid_102"
+    },
+    {
+      "eater_id": "eid_003", "food_menu_id": "fid_102"
+    },
+    {
+      "eater_id": "eid_004", "food_menu_id": "fid_101"
+    },
+    {
+      "eater_id": "eid_005", "food_menu_id": "fid_102"
+    },
+    {
+      "eater_id": "eid_006", "food_menu_id": "fid_104"
+    },
+    {
+      "eater_id": "eid_007", "food_menu_id": "fid_105"
+    },
+    {
+      "eater_id": "eid_008", "food_menu_id": "fid_105"
+    }
+  ]
